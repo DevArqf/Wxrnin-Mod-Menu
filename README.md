@@ -21,7 +21,7 @@ Screenshots taken on LDPlayer 9 (Android 9, 1600x900, 240 dpi). In the app, the 
 | **Settings** | **Rainbow toast** |
 | <img src="img/showcase/settings.png" width="400" alt="Settings tab"> | <img src="img/showcase/toast.png" width="300" alt="Rainbow toast"> |
 
-This template by **Wxrnin** is based on the R3DNETWORKID Android Template and [LGL Mod Menu](https://github.com/LGLTeam/Android-Mod-Menu/). Since the original project is no longer actively maintained, We have made several modifications, including:
+This template is based on the R3DNETWORKID Android Template and [LGL Mod Menu](https://github.com/LGLTeam/Android-Mod-Menu/). Since the original project is no longer actively maintained, We have made several modifications, including:
 
 - **UI Changes**: Updated the menu interface.
 - **New Modules**: Added additional modules to extend functionality.
@@ -43,7 +43,7 @@ Before we can jump head first into working a template, we need to go over a few 
 * DIY (Do it yourself): Yes, you must be able to do things yourself, not depending being spoonfeed. We are not the teachers.
 * An inquisitive mind
 
-We are not babysitters for naive, lazy, pathetic children... Grow up. Read and learning by yourself is mandatory!
+I am not a babysitter for naive, lazy, pathetic children... Grow up. Read and learning by yourself is mandatory!
 
 
 > [!NOTE]\
